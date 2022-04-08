@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>DOG</title>
+  <title>DOG.com</title>
 </head>
 
 <body>

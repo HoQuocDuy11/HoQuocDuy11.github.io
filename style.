@@ -1,0 +1,8 @@
+body {
+  font-family: system-ui;
+  color: black;
+  text-align: center;
+}
+html{
+background-image: url("https://kienit.com/wp-content/uploads/2021/12/hinh-nen-powerpoint-hoc-tap-59.jpg");
+}

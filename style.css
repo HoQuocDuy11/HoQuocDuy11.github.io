@@ -1,8 +1,36 @@
-body {
-  font-family: system-ui;
-  color: black;
-  text-align: center;
+*{
+    margin: 0;
+    padding: 0;
+    font-family: century Gothic;
 }
-html{
-background-image: url("https://giaiphapexcel.net/wp-content/uploads/2021/12/hinh-nen-bai-giang-powerpoint-hoc-tap_093920895.jpg");
+header{
+    background: url("https://topchiase24h.com/wp-content/uploads/2021/03/Hinh-nen-4K-26.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 25px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid #fff;
+    transition: 0.6s;
+}
+
+ul li a:hover{
+    background-color:#fff;
+    color: #000;
+}
+.logo img{
+    float: left;
+    width: ;
 }

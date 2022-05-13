@@ -2,13 +2,16 @@
 <html>
     <head>
         <title>WEBDEV CREATIONS</title>
-        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <style>
+            body {
+                background-image: url("duy.jpg");
+            }
+        </style>
     </head>
     <body>
         <header>
             <div class="main">
-                <div class="logo">
-                    <img src="" alt="">
                 </div>
                 <ul>
                     <li><a href="#">trang chủ</a></li>
@@ -18,37 +21,17 @@
                 </ul>
             </div>
         </header>
+    <!-- <br /><br /><br /><br /> -->
+    
+    <h1 aling="center">
+         <form face="Lato" color="#017bf5" size="7" >GOOGLE</form> 
+    </h1>
+    <div class="search-text">
+        <input type="search" name="Tìm kiếm" placeholder="Tìm kiếm của bạn...">
+        <a href="#" class="search-btn">
+            <i class="fa fa-search"></i>
+        </a>
+
+    </div>
     </body>
 </html>
-
-
-*{
-    margin: 0;
-    padding: 0;
-    font-family: century Gothic;
-}
-header{
-    background: url("https://topchiase24h.com/wp-content/uploads/2021/03/Hinh-nen-4K-26.jpg");
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
-}
-
-ul{
-    float: right;
-    list-style-type: none;
-    margin-top: 25px;
-}
-ul li{
-    display: inline-block;
-}
-ul li a{
-    text-decoration: none;
-    color: #fff;
-    padding: 15px 40px;
-    border: 1px solid #fff;
-}
-ul li a:hover{
-    background-color:#fff;
-    color: #000;
-}

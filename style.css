@@ -54,7 +54,6 @@ ul li a:hover{
 
 
 
-thanh tìm kiếm**
 body{
     margin: 0;
     padding: 0;
@@ -74,7 +73,7 @@ body{
 .search-text input{
     height: 40px;
     width: 80%;
-    border: none;    /* padding-left: 10px; */
+    border: none;
 }
 .search-btn{
     position: relative;
